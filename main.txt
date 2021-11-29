@@ -1,2 +1,3 @@
-developcommit
+developcoment
 feature1commit
+feature2commit
